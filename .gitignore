@@ -1,0 +1,4 @@
+node_modules/
+clips/
+downloaded_clips.json
+*.mp4
