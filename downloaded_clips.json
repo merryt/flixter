@@ -2,600 +2,700 @@
   {
     "number": 1,
     "movie": "Casablanca",
+    "year": 1942,
     "quote": "Here's looking at you, kid.",
     "clipPath": "clips/Casablanca - Here's looking at you, kid. - c5f66b8a-67b4-4fb5-b8de-2754d33ce2f2.mp4"
   },
   {
     "number": 2,
     "movie": "Gone with the Wind",
+    "year": 1939,
     "quote": "Frankly, my dear, I don't give a damn.",
     "clipPath": "NA"
   },
   {
     "number": 3,
     "movie": "The Wizard of Oz",
+    "year": 1939,
     "quote": "Toto, I've got a feeling we're not in Kansas anymore.",
     "clipPath": "clips/The Wizard of Oz - ...I have a feeling we're not in Kansas anymo - 35c71553-6ad7-4b91-b405-72c76f59aca1.mp4"
   },
   {
     "number": 4,
     "movie": "The Godfather",
+    "year": 1972,
     "quote": "I'm going to make him an offer he can't refuse.",
     "clipPath": "clips/The Godfather (1972) - I'm going to make him an offer he can't refus - 5012153d-6018-4088-a267-d2fd4fc7e975.mp4"
   },
   {
     "number": 5,
     "movie": "Casablanca",
+    "year": 1942,
     "quote": "Of all the gin joints in all the towns in all the world, she walks into mine.",
     "clipPath": "clips/Casablanca - Of all the gin joints in all the towns in all - 4b031abd-66da-46a1-8de6-fe02bb652d24.mp4"
   },
   {
     "number": 6,
     "movie": "On the Waterfront",
+    "year": 1954,
     "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
     "clipPath": "clips/On the Waterfront -[I could have been a contender] - You don't understand. I coulda had class. - 6bd460bf-60ab-4539-a589-f582b964f62b.mp4"
   },
   {
     "number": 7,
     "movie": "Citizen Kane",
+    "year": 1941,
     "quote": "Rosebud.",
     "clipPath": "clips/Citizen Kane (1941) - Rosebud. - 1d8173b8-19c8-4c4d-8a50-ffd8e50fc447.mp4"
   },
   {
     "number": 8,
     "movie": "Gone with the Wind",
+    "year": 1939,
     "quote": "After all, tomorrow is another day!",
     "clipPath": "clips/Gone with the Wind (1939) - After all, tomorrow is another day! - 75f35bcb-a824-46cc-bfb0-69124faa594a.mp4"
   },
   {
     "number": 9,
     "movie": "Sunset Boulevard",
+    "year": 1950,
     "quote": "All right, Mr. DeMille, I'm ready for my close-up.",
     "clipPath": "clips/Sunset Boulevard (1950) - All right, Mr DeMille, I'm ready for my close - 2a2bc1c0-8d4d-41bb-a6f5-1efc026de768.mp4"
   },
   {
     "number": 10,
     "movie": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
     "quote": "May the Force be with you.",
     "clipPath": "clips/Star Wars Episode IV - A New Hope (1977) - May the Force be with you. - 1772f15d-c334-4860-892e-e74df729f582.mp4"
   },
   {
     "number": 11,
     "movie": "Jaws",
+    "year": 1975,
     "quote": "You're gonna need a bigger boat.",
     "clipPath": "clips\\Jaws - You're going to need a bigger boat. - e8f890f2-f879-472e-8e91-3cdd815c2153.mp4"
   },
   {
     "number": 12,
     "movie": "Apocalypse Now",
+    "year": 1979,
     "quote": "I love the smell of napalm in the morning.",
     "clipPath": "NA"
   },
   {
     "number": 13,
     "movie": "The Shining",
+    "year": 1980,
     "quote": "Here's Johnny!",
     "clipPath": "clips\\The Shining (1980) - Here's Johnny! - ec7dc2ef-5f28-462c-92e5-c999514ec297.mp4"
   },
   {
     "number": 14,
     "movie": "The Wizard of Oz",
+    "year": 1939,
     "quote": "There's no place like home.",
     "clipPath": "clips\\The Wizard of Oz - There's no place like home. - ea1adb73-fb53-45d1-aedd-ddfde6dd3ea7.mp4"
   },
   {
     "number": 15,
     "movie": "Forrest Gump",
+    "year": 1994,
     "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
     "clipPath": "clips\\Forrest Gump (1994) - My mama always said life was like a box of ch - a722d3e1-efa5-4ba3-8db6-3840b3f955eb.mp4"
   },
   {
     "number": 16,
     "movie": "Titanic",
+    "year": 1997,
     "quote": "I'm the king of the world!",
     "clipPath": "clips\\Titanic (1997) - I'm the king of the world! - 41a7ca10-5a94-458c-87ed-60604d07d407.mp4"
   },
   {
     "number": 17,
     "movie": "A Few Good Men",
+    "year": 1992,
     "quote": "You can't handle the truth!",
     "clipPath": "clips\\A Few Good Men (1992) - You can't handle the truth! - 86dbd832-95aa-4eee-86e2-b71d518562ce.mp4"
   },
   {
     "number": 18,
     "movie": "The Silence of the Lambs",
+    "year": 1991,
     "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
     "clipPath": "clips\\The Silence of the Lambs (1991) - I ate his liver with some fava beans... - 04158a8e-d215-4048-b5d5-066187d973ea.mp4"
   },
   {
     "number": 19,
     "movie": "Chinatown",
+    "year": 1974,
     "quote": "Forget it, Jake, it's Chinatown.",
     "clipPath": "clips\\Chinatown (1974) - Forget it, Jake. It's Chinatown. - b09583b2-b07d-43b9-92c9-0e5b3446855c.mp4"
   },
   {
     "number": 20,
     "movie": "Casablanca",
+    "year": 1942,
     "quote": "Play it, Sam. Play 'As Time Goes By.'",
     "clipPath": "clips\\Casablanca - [AS TIME GOES BY PLAYS] - 4633f3d6-422c-4447-bdce-bb80933b1deb.mp4"
   },
   {
     "number": 21,
     "movie": "The Maltese Falcon",
+    "year": 1941,
     "quote": "The stuff that dreams are made of.",
     "clipPath": "clips\\The Maltese Falcon - The stuff that dreams are made of. - ee032c30-c62f-42f5-bc12-98d2fefbf7ef.mp4"
   },
   {
     "number": 22,
     "movie": "Taxi Driver",
+    "year": 1976,
     "quote": "You talkin' to me?",
     "clipPath": "clips\\Alvin and the Chipmunks The Squeakquel (2009) - You talkin' to me You talkin' to me - f70ebc04-8721-41a5-9c21-e3836b595a0d.mp4"
   },
   {
     "number": 23,
     "movie": "The Terminator",
+    "year": 1984,
     "quote": "I'll be back.",
     "clipPath": "clips\\Any Given Sunday (1999) - I'll be back. I'll be back. - cf2c5a02-78c0-49d6-9f7a-04b7933839c3.mp4"
   },
   {
     "number": 24,
     "movie": "E.T. the Extra-Terrestrial",
+    "year": 1982,
     "quote": "E.T. phone home.",
     "clipPath": "clips\\E.T. The Extraterrestrial - E.T. phone home. E.T. phone home. - 868dfcc9-e216-4942-9272-e336519f96c4.mp4"
   },
   {
     "number": 25,
     "movie": "The Sixth Sense",
+    "year": 1999,
     "quote": "I see dead people.",
     "clipPath": "NA"
   },
   {
     "number": 26,
     "movie": "Casablanca",
+    "year": 1942,
     "quote": "Louis, I think this is the beginning of a beautiful friendship.",
     "clipPath": "clips\\Casablanca - RICK Louis, I think this is the beginning of  - ebb16c76-31af-4da7-b457-3c15a76b6cbd.mp4"
   },
   {
     "number": 27,
     "movie": "All About Eve",
+    "year": 1950,
     "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
     "clipPath": "clips\\All About Eve - Fasten your seat belts. It's going to be a bu - ab240c86-f814-400d-b735-359cd65ac38d.mp4"
   },
   {
     "number": 28,
     "movie": "In the Heat of the Night",
+    "year": 1967,
     "quote": "They call me Mister Tibbs!",
     "clipPath": "clips\\In the Heat of the Night - - What do they call you up there - They call  - a43a2734-184d-4562-bbcb-88215ed7d75b.mp4"
   },
   {
     "number": 29,
     "movie": "Cool Hand Luke",
+    "year": 1967,
     "quote": "What we've got here is failure to communicate.",
     "clipPath": "clips\\Cool Hand Luke (1967) - What we got here is a failure to communicate. - 6c276a98-8bda-40cd-8b06-15583b5bb696.mp4"
   },
   {
     "number": 30,
     "movie": "Love Story",
+    "year": 1970,
     "quote": "Love means never having to say you're sorry.",
     "clipPath": "NA"
   },
   {
     "number": 31,
     "movie": "Sudden Impact",
+    "year": 1983,
     "quote": "Go ahead, make my day.",
     "clipPath": "clips\\Gotcha! - Go ahead. Make my day. - 46c8aaff-0e22-4446-b412-17f04403a6e1.mp4"
   },
   {
     "number": 32,
     "movie": "White Heat",
+    "year": 1949,
     "quote": "Made it, Ma! Top of the world!",
     "clipPath": "NA"
   },
   {
     "number": 33,
     "movie": "Network",
+    "year": 1976,
     "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
     "clipPath": "clips\\Network (1976) - I'm as mad as hell and I'm not going to take  - 6b55f704-0e23-4bce-ade1-10fcf253ee2c.mp4"
   },
   {
     "number": 34,
     "movie": "Jerry Maguire",
+    "year": 1996,
     "quote": "Show me the money!",
     "clipPath": "NA"
   },
   {
     "number": 35,
     "movie": "Dr. No",
+    "year": 1962,
     "quote": "Bond. James Bond.",
     "clipPath": "clips\\The Boondocks (2005) - S03E07 The Fund-Raiser - James Bond, James Bond James Bond, hey - 965bc685-8c53-4b0d-a2b6-899ac816117c.mp4"
   },
   {
     "number": 36,
     "movie": "She Done Him Wrong",
+    "year": 1933,
     "quote": "Why don't you come up sometime and see me?\"",
     "clipPath": "clips\\She Done Him Wrong - Why don't you come up sometime and see me - f5536cc9-8a95-4aec-a182-ad05fe12b953.mp4"
   },
   {
     "number": 37,
     "movie": "Sunset Boulevard",
+    "year": 1950,
     "quote": "I am big! It's the pictures that got small.",
     "clipPath": "clips\\Sunset Boulevard (1950) - I am big. It's the pictures that got small. - f61461b5-6caf-449b-8167-06413ecb7066.mp4"
   },
   {
     "number": 38,
     "movie": "Psycho",
+    "year": 1960,
     "quote": "A boy's best friend is his mother.",
     "clipPath": "clips\\Psycho (1960) - Well, a boy's best friend is his mother. - 6ad6d621-026c-45c1-86cf-f42e3f0541da.mp4"
   },
   {
     "number": 39,
     "movie": "Apollo 13",
+    "year": 1995,
     "quote": "Houston, we have a problem.",
     "clipPath": "clips\\The Simpsons (1989) - S07E20 Comedy - Houston- We have a problem. - f81b5744-8168-4dd6-a698-7ac326d68934.mp4"
   },
   {
     "number": 40,
     "movie": "Midnight Cowboy",
+    "year": 1969,
     "quote": "I'm walkin' here! I'm walkin' here!",
     "clipPath": "clips\\Smack the Pony (1999) - S03E03 Episode #3.3 - # I'm walkin' - 5dcf8164-a1f2-4dbc-8265-6fd28e32446c.mp4"
   },
   {
     "number": 41,
     "movie": "Casablanca",
+    "year": 1942,
     "quote": "Round up the usual suspects.",
     "clipPath": "clips\\Casablanca - Round up the usual suspects. - 720aa84f-6c01-4821-b3fc-b10c4c19da3d.mp4"
   },
   {
     "number": 42,
     "movie": "The Treasure of the Sierra Madre",
+    "year": 1948,
     "quote": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
     "clipPath": "clips\\The Treasure of the Sierra Madre (1948) - Badges We ain't got no badges. - 98ff313b-92e3-4e64-b6d2-e41d9641f456.mp4"
   },
   {
     "number": 43,
     "movie": "A Streetcar Named Desire",
+    "year": 1951,
     "quote": "Stella! Hey, Stella!",
     "clipPath": "clips\\A Streetcar Named Desire (1951) - Hey, Stella - bc496169-670c-408f-a2db-78949310366e.mp4"
   },
   {
     "number": 44,
     "movie": "The Pride of the Yankees",
+    "year": 1942,
     "quote": "Today, I consider myself the luckiest man on the face of the earth.",
     "clipPath": "clips\\The Pride of the Yankees - the luckiest man on the face of the earth. - bffa2299-aeef-469b-9831-787dd8d01170.mp4"
   },
   {
     "number": 45,
     "movie": "Field of Dreams",
+    "year": 1989,
     "quote": "If you build it, he will come.",
     "clipPath": "clips\\Field of Dreams (1989) - If you build it, he will come. - 422e18a8-87c2-4218-92ad-7c4a279e8480.mp4"
   },
   {
     "number": 46,
     "movie": "When Harry Met Sally...",
+    "year": 1989,
     "quote": "I'll have what she's having.",
     "clipPath": "clips\\When Harry Met Sally... (1989) - I'll have what she's having. - 6d54bc6e-454c-4777-be3d-837507cd17aa.mp4"
   },
   {
     "number": 47,
     "movie": "To Have and Have Not",
+    "year": 1944,
     "quote": "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
     "clipPath": "NA"
   },
   {
     "number": 48,
     "movie": "Grand Hotel",
+    "year": 1932,
     "quote": "I want to be alone.",
     "clipPath": "clips\\Cheers (1982) - S11E06 Teaching with the Enemy - I wanted to be alone. - 835367e3-a3c2-474c-a6aa-b2ff77b23fb6.mp4"
   },
   {
     "number": 49,
     "movie": "Bonnie and Clyde",
+    "year": 1967,
     "quote": "We rob banks.",
     "clipPath": "clips\\Bonnie and Clyde (1967) Biography - We rob banks. - 3918b294-1014-4667-8ba1-c09df39f3242.mp4"
   },
   {
     "number": 50,
     "movie": "Frankenstein",
+    "year": 1931,
     "quote": "It's alive! It's alive!",
     "clipPath": "clips\\Frankenstein - Oh, it's alive! It's alive! It's alive! - ca85b19c-7bd6-44c1-ac0a-c01bd0e6cb45.mp4"
   },
   {
     "number": 51,
     "movie": "Shane",
+    "year": 1953,
     "quote": "Shane. Shane. Come back!",
     "clipPath": "clips\\Shane - Come back! - 8084ccf5-bfe7-4b29-b5c9-ed50611f0ead.mp4"
   },
   {
     "number": 52,
     "movie": "The Wizard of Oz",
+    "year": 1939,
     "quote": "I'll get you, my pretty, and your little dog too!",
     "clipPath": "clips\\The Wizard of Oz - ...and your little dog too! - 191bea91-2d50-4dd3-b62f-b776a3d91aa7.mp4"
   },
   {
     "number": 53,
     "movie": "Casablanca",
+    "year": 1942,
     "quote": "We'll always have Paris.",
     "clipPath": "clips\\Casablanca - We'll always have Paris. - eeec735b-8804-4224-9395-f3e4282ef767.mp4"
   },
   {
     "number": 54,
     "movie": "The Graduate",
+    "year": 1967,
     "quote": "Plastics.",
     "clipPath": "clips\\The Graduate - Plastics. - 970bf5cc-2dcf-4e2f-92c3-c189c10cc7a8.mp4"
   },
   {
     "number": 55,
     "movie": "Some Like It Hot",
+    "year": 1959,
     "quote": "Well, nobody's perfect.",
     "clipPath": "clips\\Captain America The First Avenger (2011) - Well, nobody's perfect. - 60c4a4c1-f29a-4c1b-904d-799929c12c1b.mp4"
   },
   {
     "number": 56,
     "movie": "Now, Voyager",
+    "year": 1942,
     "quote": "Oh, Jerry, don't let's ask for the moon. We have the stars.",
     "clipPath": "clips\\Now Voyager - Oh, Jerry, don't let's ask for the moon. - 8bc73455-99e9-4d96-bfd0-c261f87135a6.mp4"
   },
   {
     "number": 57,
     "movie": "Jerry Maguire",
+    "year": 1996,
     "quote": "You had me at 'hello.'",
     "clipPath": "NA"
   },
   {
     "number": 58,
     "movie": "Titanic",
+    "year": 1997,
     "quote": "I'll Never Let Go.",
     "clipPath": "clips\\Titanic (1997) - I'll never let go. - c46e4019-ba32-406b-8d4c-fa89dd395dc3.mp4"
   },
   {
     "number": 59,
     "movie": "The Godfather Part II",
+    "year": 1974,
     "quote": "Keep your friends close, but your enemies closer.",
     "clipPath": "clips\\Tiger King - S01E07 Dethroned - Keep your friends close but keep your enemies - 1eda0a5b-c0d9-4712-afa8-49acc89fc2d3.mp4"
   },
   {
     "number": 60,
     "movie": "Wall Street",
+    "year": 1987,
     "quote": "Greed, for lack of a better word, is good.",
     "clipPath": "clips\\Wall Street (1987) - The point is, ladies and gentlemen, that gree - fc50a0b3-86f6-447e-9c90-3562b1762f29.mp4"
   },
   {
     "number": 61,
     "movie": "Dirty Harry",
+    "year": 1971,
     "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
     "clipPath": "clips\\Dirty Harry (1971) - ...you've got to ask yourself one question Do - 0c7021fa-9bd5-4ebe-ab2b-90077a134f6e.mp4"
   },
   {
     "number": 62,
     "movie": "Scarface",
+    "year": 1983,
     "quote": "Say 'hello' to my little friend!",
     "clipPath": "clips\\Scarface (1983) - Say hello to my little friend! - 89954a1b-3ab4-4913-a16b-c4ff4207311a.mp4"
   },
   {
     "number": 63,
     "movie": "Gone with the Wind",
+    "year": 1939,
     "quote": "As God is my witness, I'll never be hungry again.",
     "clipPath": "NA"
   },
   {
     "number": 64,
     "movie": "A Streetcar Named Desire",
+    "year": 1951,
     "quote": "I have always depended on the kindness of strangers.",
     "clipPath": "clips\\A Streetcar Named Desire (1951) - I have always depended on the kindness... - db4a606e-82bd-46fb-b030-a5c15fae661b.mp4"
   },
   {
     "number": 65,
     "movie": "Annie Hall",
+    "year": 1977,
     "quote": "La-dee-da, la-dee-da.",
     "clipPath": "NA"
   },
   {
     "number": 66,
     "movie": "The Graduate",
+    "year": 1967,
     "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
     "clipPath": "clips\\The Graduate - Mrs. Robinson, you're trying to seduce me. - 3d2f47c8-8a63-4f19-aa58-5ab377be1a66.mp4"
   },
   {
     "number": 67,
     "movie": "Sons of the Desert",
+    "year": 1933,
     "quote": "Well, here's another nice mess you've gotten me into!",
     "clipPath": "clips\\Sons of the Desert - Well, here's another nice mess you've gotten  - 6d152920-e362-4e13-bee9-5cef30f7f895.mp4"
   },
   {
     "number": 68,
     "movie": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
     "quote": "Gentlemen, you can't fight in here! This is the War Room!",
     "clipPath": "clips\\Dr Strangelove - Gentlemen, you can't fight in here. This is t - 995085a8-f9a4-45fa-a472-060c0159a76b.mp4"
   },
   {
     "number": 69,
     "movie": "Poltergeist",
+    "year": 1982,
     "quote": "They're here!",
     "clipPath": "clips\\Poltergeist (1982) - - They're here! - They're back! - bb09bcce-bd15-448b-9a5d-245feec44a7d.mp4"
   },
   {
     "number": 70,
     "movie": "Animal Crackers",
+    "year": 1930,
     "quote": "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.",
     "clipPath": "clips\\Chitty Chitty Bang Bang - and l shot an elephant in my pajamas. How he  - 5730809e-54fa-495a-9033-d70200c09789.mp4"
   },
   {
     "number": 71,
     "movie": "The Adventures of Sherlock Holmes",
+    "year": 1939,
     "quote": "Elementary, my dear Watson.",
     "clipPath": "clips\\The Adventures of Sherlock Holmes - Elementary, my dear Watson, purely elementary - a8af0980-f1fc-4f0b-ad75-a4d31e89f1e8.mp4"
   },
   {
     "number": 72,
     "movie": "Planet of the Apes",
+    "year": 1968,
     "quote": "Get your stinking paws off me, you damned dirty ape.",
     "clipPath": "clips\\Rise of the Planet of the Apes (2011) - Take your stinking paw off me, you damn dirty - 17a7f7bd-1437-4d66-9af1-61d824d35411.mp4"
   },
   {
     "number": 73,
     "movie": "Terminator 2: Judgment Day",
+    "year": 1991,
     "quote": "Hasta la vista, baby.",
     "clipPath": "clips\\Terminator 2 Judgment Day - Hasta la vista, baby. - ff489c51-1d2e-449c-b907-e673048c60cc.mp4"
   },
   {
     "number": 74,
     "movie": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
     "quote": "My precious.",
     "clipPath": "clips\\The Lord of the Rings The Two Towers (2002) - My precious. - 5cec7937-3e7a-4e03-a35c-e3a547a32a6f.mp4"
   },
   {
     "number": 75,
     "movie": "2001: A Space Odyssey",
+    "year": 1968,
     "quote": "Open the pod bay doors please, HAL.",
     "clipPath": "clips\\2001 A Space Odyssey - Open the pod-bay doors, please, Hal. - f24a6ca9-5c66-4782-a672-ea06a56464e8.mp4"
   },
   {
     "number": 76,
     "movie": "King Kong",
+    "year": 1933,
     "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
     "clipPath": "clips\\King Kong (1933) - Oh, nо, it wasn't the airplanes. - 03463072-ce62-42d5-a68e-c6b947791968.mp4"
   },
   {
     "number": 77,
     "movie": "A League of Their Own",
+    "year": 1992,
     "quote": "There's no crying in baseball!",
     "clipPath": "clips\\A League of Their Own (1992) - Because there's no crying in baseball. No cry - fb321265-307b-412c-a49a-2572592708cb.mp4"
   },
   {
     "number": 78,
     "movie": "National Lampoon's Animal House",
+    "year": 1978,
     "quote": "Toga! Toga!",
     "clipPath": "clips\\Animal House (1978) - Toga! Toga! Toga! Toga! - 47e57cab-fc04-4e48-994b-9d1cf938da92.mp4"
   },
   {
     "number": 79,
     "movie": "Airplane!",
+    "year": 1980,
     "quote": "Striker: \"Surely you can't be serious.\" Rumack: \"I am serious...and don't call me Shirley.\"",
     "clipPath": "NA"
   },
   {
     "number": 80,
     "movie": "Rocky",
+    "year": 1976,
     "quote": "Yo, Adrian!",
     "clipPath": "clips\\Rocky V (1990) - Yo, Adrian! - cd017fc5-a276-441a-9408-4505ac4e524e.mp4"
   },
   {
     "number": 81,
     "movie": "Dog Day Afternoon",
+    "year": 1975,
     "quote": "Attica! Attica!",
     "clipPath": "clips\\Dog Day Afternoon (1975) - Attica! Attica! Attica! - 9283d9c2-ae50-48ab-bd84-67e0d9e07702.mp4"
   },
   {
     "number": 82,
     "movie": "Mommie Dearest",
+    "year": 1981,
     "quote": "No wire hangers, ever!",
     "clipPath": "clips\\Mommie Dearest (1981) - No wire hangers, ever! - c61a4208-e802-45f1-acca-a45c6e6136ab.mp4"
   },
   {
     "number": 83,
     "movie": "Funny Girl",
+    "year": 1968,
     "quote": "Hello, gorgeous.",
     "clipPath": "clips\\Hello Gorgeous, Funny Girl - Hello gorgeous. - 13e804be-3985-462b-9480-c2d0191d977f.mp4"
   },
   {
     "number": 84,
     "movie": "Dracula",
+    "year": 1931,
     "quote": "Listen to them. Children of the night. What music they make.",
     "clipPath": "clips\\Dracula - What music they make. - a2dac103-ce53-4ac3-a98f-138a5ae0874e.mp4"
   },
   {
     "number": 85,
     "movie": "42nd Street",
+    "year": 1933,
     "quote": "Sawyer, you're going out a youngster, but you've got to come back a star!",
     "clipPath": "clips\\Steven Universe (2013) - S05E04 Adventure - But you've got to go back. - 1b2b4646-eaf4-4256-a110-86ca9c029649.mp4"
   },
   {
     "number": 86,
     "movie": "Soylent Green",
+    "year": 1973,
     "quote": "Soylent Green is people!",
     "clipPath": "clips\\Soylent Green (1973) - Soylent Green is people! - 9bac0054-e58a-4b23-b90d-8ef5169ad428.mp4"
   },
   {
     "number": 87,
     "movie": "Goldfinger",
+    "year": 1964,
     "quote": "A martini. Shaken, not stirred.",
     "clipPath": "clips\\James Bond Goldfinger (1964) - Shaken, not stirred. - f3fdf77f-6d24-4bc8-ab49-1a3332c3f429.mp4"
   },
   {
     "number": 88,
     "movie": "On Golden Pond",
+    "year": 1981,
     "quote": "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna go, go, go!",
     "clipPath": "NA"
   },
   {
     "number": 89,
     "movie": "Knute Rockne All American",
+    "year": 1940,
     "quote": "Tell 'em to go out there with all they got and win just one for the Gipper.",
     "clipPath": "clips\\Rudy (1993) - ...tell them to go in there and win just one  - d9fce7bb-5b1a-4d59-90ef-a1627af6fe57.mp4"
   },
   {
     "number": 90,
     "movie": "Marathon Man",
+    "year": 1976,
     "quote": "Is it safe?",
     "clipPath": "clips\\Marathon Man - - Is it safe - Is what safe - db49dc1b-29cd-4959-9178-5bffcc472375.mp4"
   },
   {
     "number": 91,
     "movie": "The Naughty Nineties",
+    "year": 1945,
     "quote": "Who's on first?",
     "clipPath": "clips\\The Simpsons (1989) - S10E15 Comedy - Who's on first - cbdc140d-ebe4-493d-8d44-1097cf2e2f46.mp4"
   },
   {
     "number": 92,
     "movie": "Little Caesar",
+    "year": 1931,
     "quote": "Mother of mercy, is this the end of Rico?",
     "clipPath": "clips\\Home on the Range - Mother of mercy. ls this the end of Rico - 6d3ae6ba-60d9-4bea-af02-97160725f19f.mp4"
   },
   {
     "number": 93,
     "movie": "Caddyshack",
+    "year": 1980,
     "quote": "Cinderella story. Outta nowhere. A former greenskeeper, now, about to become the Masters champion. It looks like a mirac...It's in the hole! It's in the hole! It's in the hole!",
     "clipPath": "NA"
   },
   {
     "number": 94,
     "movie": "Auntie Mame",
+    "year": 1958,
     "quote": "Life is a banquet, and most poor suckers are starving to death!",
     "clipPath": "clips\\Auntie Mame - Life is a banquet and most poor suckers are s - 6612869a-6bcb-45ea-8401-f3909c226cdd.mp4"
   },
   {
     "number": 95,
     "movie": "Top Gun",
+    "year": 1986,
     "quote": "I feel the need—the need for speed!",
     "clipPath": "clips\\Top Gun (1986) - I feel the need... the need for speed. - 669f0992-f668-4d67-b3ea-f1d790829b7f.mp4"
   },
   {
     "number": 96,
     "movie": "Dead Poets Society",
+    "year": 1989,
     "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
     "clipPath": "clips\\Dead Poets Society (1989) - Carpe diem, that's seize the day. - 54196c7b-34f5-490e-bdb9-04391269713f.mp4"
   },
   {
     "number": 97,
     "movie": "Moonstruck",
+    "year": 1987,
     "quote": "Snap out of it!",
     "clipPath": "clips\\Knight Rider (1982) - S04E14 Out of the Woods - Snap out of it. Snap out of it. - 12cdc1ee-6ab2-40e5-b49f-cb8a79700101.mp4"
   },
   {
     "number": 98,
     "movie": "The Jazz Singer",
+    "year": 1927,
     "quote": "Wait a minute, wait a minute. You ain't heard nothin' yet!",
     "clipPath": "clips\\The Jazz Singer - Wait a minute, wait a minute. You ain't heard - f7f9ccb6-8f26-416f-af7e-66e773ac9701.mp4"
   },
   {
     "number": 99,
     "movie": "Dirty Dancing",
+    "year": 1987,
     "quote": "Nobody puts Baby in a corner.",
     "clipPath": "clips\\The Goldbergs (2013) - S03E17 The Dirty Dancing Dance - Nobody puts Baby in a corner. - 554773d9-45e6-441b-9ae3-41e0ac5a3aec.mp4"
   },
   {
     "number": 100,
     "movie": "Yankee Doodle Dandy",
+    "year": 1942,
     "quote": "My mother thanks you. My father thanks you. My sister thanks you. And I thank you.",
     "clipPath": "clips\\Yankee Doodle Dandy - My mother thanks you, my father thanks you... - 554dc486-fac3-43e2-81c4-961b88f2769a.mp4"
   }

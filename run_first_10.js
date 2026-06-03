@@ -62,6 +62,7 @@ async function run() {
             results.push({
                 number: item.number,
                 movie: item.movie,
+                year: item.year,
                 quote: item.quote,
                 clipPath: clipPath
             });
@@ -70,6 +71,7 @@ async function run() {
             results.push({
                 number: item.number,
                 movie: item.movie,
+                year: item.year,
                 quote: item.quote,
                 clipPath: "NA"
             });
@@ -96,6 +98,7 @@ async function run() {
     console.table(results.map(r => ({
         Number: r.number,
         Movie: r.movie,
+        Year: r.year,
         Quote: r.quote.length > 40 ? r.quote.substring(0, 37) + '...' : r.quote,
         ClipPath: r.clipPath
     })));

@@ -95,6 +95,7 @@ async function run() {
             const entry = {
                 number: item.number,
                 movie: item.movie,
+                year: item.year,
                 quote: item.quote,
                 clipPath: clipPath
             };
@@ -113,6 +114,7 @@ async function run() {
             const entry = {
                 number: item.number,
                 movie: item.movie,
+                year: item.year,
                 quote: item.quote,
                 clipPath: "NA"
             };
