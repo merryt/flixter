@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flixter ChronoClash - Movie Release Guessing Game</title>
+    <meta name="description" content="A cinematic guessing game where you compare two classic movie clips and guess which one was released first!">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-glow"></div>
+    
+    <div class="game-container">
+        <!-- Header Section -->
+        <header class="game-header">
+            <div class="logo-area">
+                <span class="logo-icon">🎬</span>
+                <div>
+                    <h1 class="logo-title">FLIXTER</h1>
+                    <p class="logo-subtitle">ChronoClash</p>
+                </div>
+            </div>
+            
+            <!-- Dashboard Stats -->
+            <div class="stats-dashboard">
+                <div class="stat-card" id="card-score">
+                    <span class="stat-label">Score</span>
+                    <span class="stat-value" id="score-val">0</span>
+                </div>
+                <div class="stat-card" id="card-streak">
+                    <span class="stat-label">Streak</span>
+                    <span class="stat-value" id="streak-val">🔥 0</span>
+                </div>
+                <div class="stat-card" id="card-highscore">
+                    <span class="stat-label">High Score</span>
+                    <span class="stat-value" id="highscore-val">0</span>
+                </div>
+                <button class="flagged-dashboard-btn" id="view-flagged-btn">
+                    <span class="flagged-btn-icon">🚩</span>
+                    <span class="flagged-btn-text">Flagged</span>
+                    <span class="flagged-btn-count" id="flagged-count">0</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Instructions -->
+        <div class="game-info">
+            <p>Compare the two movie clips below. Which movie came out first?</p>
+        </div>
+
+        <!-- Main Game Area -->
+        <main class="game-arena">
+            <!-- Left Card -->
+            <div class="clip-card" id="clip-card-left">
+                <div class="video-wrapper">
+                    <video id="video-left" controls playsinline>
+                        <source src="" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+                
+                <div class="card-details" id="details-left">
+                    <h2 class="movie-title" id="title-left">Movie Title</h2>
+                    <p class="movie-year" id="year-left">1900</p>
+                    <blockquote class="movie-quote" id="quote-left">"Quote snippet goes here..."</blockquote>
+                    <button class="flag-btn" id="flag-btn-left">🚩 Flag Clip</button>
+                </div>
+
+                <button class="choice-btn" id="btn-left">This One Came First</button>
+            </div>
+
+            <!-- Right Card -->
+            <div class="clip-card" id="clip-card-right">
+                <div class="video-wrapper">
+                    <video id="video-right" controls playsinline>
+                        <source src="" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+                
+                <div class="card-details" id="details-right">
+                    <h2 class="movie-title" id="title-right">Movie Title</h2>
+                    <p class="movie-year" id="year-right">1900</p>
+                    <blockquote class="movie-quote" id="quote-right">"Quote snippet goes here..."</blockquote>
+                    <button class="flag-btn" id="flag-btn-right">🚩 Flag Clip</button>
+                </div>
+
+                <button class="choice-btn" id="btn-right">This One Came First</button>
+            </div>
+        </main>
+
+        <!-- Results panel (hidden initially) -->
+        <section class="results-panel" id="results-panel">
+            <div class="feedback-banner" id="feedback-banner">
+                <span class="feedback-icon" id="feedback-icon">🎉</span>
+                <span class="feedback-text" id="feedback-text">Correct!</span>
+            </div>
+            <p class="results-explanation" id="results-explanation">
+                Casablanca (1942) came out 30 years before The Godfather (1972).
+            </p>
+            <button class="next-btn" id="next-btn">Next Round ➔</button>
+        </section>
+    </div>
+
+    <!-- Flagged Clips Modal -->
+    <div class="modal-overlay" id="flagged-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Flagged Clips (Problem Numbers)</h2>
+                <button class="close-modal-btn" id="close-modal-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p id="no-flagged-msg">No clips flagged yet.</p>
+                <div class="flagged-numbers-box" id="flagged-numbers-box"></div>
+                <ul class="flagged-list" id="flagged-list"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>

@@ -7,13 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "download": "node download_yarn.js",
     "run-first-10": "node run_first_10.js",
-    "run-last-90": "node run_last_90.js"
+    "run-last-90": "node run_last_90.js",
+    "start-game": "npx http-server -p 8080"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "http-server": "^14.1.1",
     "puppeteer-core": "^25.1.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
