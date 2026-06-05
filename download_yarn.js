@@ -29,7 +29,7 @@ function getBrowserPath() {
 
 // Helper to sanitize filenames for Windows filesystem
 function sanitizeFilename(name) {
-    return name.replace(/[/\\:*?"<>|]/g, '').trim();
+    return name.replace(/[/\\:*?"<>|#]/g, '').trim();
 }
 
 // Helper to clean search queries (strip punctuation for better search results on Yarn)
